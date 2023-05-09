@@ -1,0 +1,4 @@
+PA2-RR.c		Round Robin with Optimized Quantum
+PA2-FCFS.c		First Come First Serve
+PA2-SJF.c		Smallest Job First
+PA2-MLFQ.c		Multi-Level Feedback Queue with Optimized Quantum
